@@ -1,9 +1,9 @@
-# Original ***Data Science*** Material
+# Original ***Data Science*** Material in Python/R
+
+### *Felipe Maia Polo (felipemaiapolo)*
 
 - Materiais originais de Data Science em Português/Inglês.
 - Original Data Science material in Portuguese/English.
-
-### *Felipe Maia Polo (felipemaiapolo)*
 
 In case you have any question or suggestion, please get in touch sending us an e-mail in *felipemaiapolo@gmail.com*.
 
