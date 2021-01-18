@@ -29,5 +29,5 @@ In case you have any question or suggestion, please get in touch sending us an e
 4. [Newton-Raphson para resolução de sistemas não lineares](https://felipemaiapolo.github.io/notebooks/newton.html)
 5. [Predicting number of COVID-19 cases with bayesian regression](https://felipemaiapolo.github.io/notebooks/covidSP.html)
 6. [Relating money supply and inflation in Brazil](https://felipemaiapolo.github.io/notebooks/monet.html)
-7. [Simulated Annealing para resolução de problema de otimização](https://felipemaiapolo.github.io/notebooks/newton.html)
+7. [Simulated Annealing para resolução de problema de otimização](https://felipemaiapolo.github.io/notebooks/simulated.html)
 
