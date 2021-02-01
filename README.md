@@ -5,7 +5,7 @@
 - Materiais originais de Data Science em Português/Inglês.
 - Original Data Science material in Portuguese/English.
 
-In case you have any question or suggestion, please get in touch sending us an e-mail in *felipemaiapolo@gmail.com*.
+In case you have any question or suggestion, please get in touch sending me an e-mail in *felipemaiapolo@gmail.com*.
 
 --------------
 ## Curso de Introdução ao Data Science em Python / Introduction to Data Science in Python Course
