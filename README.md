@@ -19,8 +19,9 @@ In case you have any question or suggestion, please get in touch sending me an e
 1. [Classificação com Regressão Logística](https://felipemaiapolo.github.io/notebooks/classreglog.html)
 2. [Comparing Fitted Statistical Models](https://felipemaiapolo.github.io/notebooks/comparing_models.html)
 3. [Como escolher o ponto de corte em um classificador binário: Uma abordagem pela Teoria da Decisão](https://felipemaiapolo.github.io/notebooks/decision.html)
-4. [Introdução às Redes Neurais Artificiais com Tensorflow 2 e Keras](https://felipemaiapolo.github.io/notebooks/tensorflowkeras.html)
-5. [Redes Neurais Bayesianas](https://felipemaiapolo.github.io/notebooks/bayesian_nn.html)
+4. [Introdução à Simulação de Monte Carlo em Python](https://github.com/felipemaiapolo/monte_carlo/blob/main/Intro_MonteCarlo_em_Python.ipynb)
+5. [Introdução às Redes Neurais Artificiais com Tensorflow 2 e Keras](https://felipemaiapolo.github.io/notebooks/tensorflowkeras.html)
+6. [Redes Neurais Bayesianas](https://felipemaiapolo.github.io/notebooks/bayesian_nn.html)
 
 ## Aplicações / Applications
 1. [Classificação de textos utilizando tf-idf e regressão logística](https://felipemaiapolo.github.io/notebooks/nlp_tfidf.html)
